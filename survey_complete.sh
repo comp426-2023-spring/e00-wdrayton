@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE=tired wolf car hummus d01d06
 
 echo ${EXAMCODE}
